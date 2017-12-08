@@ -43,12 +43,12 @@ window.onscroll = function(){
 
   console.log(x);
 
-  nug.style.left = 450 + x * .98 + "px";
+  nug.style.left = 450 + x * 1.03 + "px";
 
-  lighter1.style.left = x * .05 + "px";
-  // lighter2.style.left = x + .3 + "px";
-  // lighter3.style.left = x + .2 + "px";
-  // lighter4.style.left = x + .1 + "px";
+  lighter1.style.left = x * 1. + "px";
+  lighter2.style.left = x * 1 + "px";
+  lighter3.style.left = x * 1 + "px";
+  lighter4.style.left = x * 1 + "px";
 
   // if (x > 200) {
   //   counter.style.backgroundColor = "green";
